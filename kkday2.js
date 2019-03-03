@@ -133,7 +133,7 @@ function renderAffiRecsHtml(id, style, reclist) {
 		var prodUrl = getKkdayProdUrl(rec.id, kkdayLang);
 		_contentHtml = _contentHtml
 			.replace("{currency}", price_cur)
-			.replace("{prodUrl_" + (i + 1) + "}", prodUrl + "?cid=" + kkdayCid + "&ccy=" + price_cur)
+			.replace("{prodUrl_" + (i + 1) + "}", prodUrl + "?cid=" + kkdayCid + "&ccy=" + price_cur + "&ud1=htmlad")
 			.replace("{imgUrl_" + (i + 1) + "}", rec.img_url)
 			.replace("{prodName_" + (i + 1) + "}", rec.name)
 			.replace("{prodPrice_" + (i + 1) + "}", rec.display_price);
