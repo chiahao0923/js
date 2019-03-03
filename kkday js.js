@@ -66,7 +66,7 @@ requireResource.push({
 	src: "https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css"
 }, {
 	type: "css",
-	src: "https://od.lk/s/NV8xMzE1NDI3OTdf/kkday.css"
+	src: "https://raw.githubusercontent.com/chiahao0923/js/master/kkday.css"
 }, {
 	type: "js",
 	src: "https://www.kkday.com/assets/js/kkday-affi-style.js"
