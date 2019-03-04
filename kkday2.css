@@ -147,7 +147,7 @@ a {
 .card-300 {
 	width: 300px;
 	height: 250px;
-	float: left;
+	margin: 0px auto;
 }
 
 .card-300 .prod-img {
