@@ -145,7 +145,7 @@ a {
 /*300x250*/
 
 .card-300 {
-	width: 300px;
+	width: auto;
 	height: 250px;
         float: none;
 	margin: 0px auto;
