@@ -145,7 +145,7 @@ a {
 /*300x250*/
 
 .card-300 {
-	width: 100%;
+	width: 300px;
 	height: 250px;
         float: none;
 	margin: 0px auto;
@@ -156,7 +156,7 @@ a {
 }
 
 .card-300.card-col-2 .prod {
-	width: 50%;
+	width: 49.99%;
         border-left: darkgray;
 }
 
