@@ -229,8 +229,8 @@ a {
 
 .card-300x600.card-5-row .prod-detail {
 	float: left;
-	height: 100%;
-	width: calc(100% - 130px);
+	height: unset;
+	width: calc(100% - 140px);
 }
 
 .card-300x600.card-5-row .prod-detail .price {
