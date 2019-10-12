@@ -42,6 +42,8 @@
 
 .prod .prod-detail {
 	padding: 5px;
+	box-sizing: border-box;
+	outline: none;
 }
 
 .prod .prod-detail h2 {
