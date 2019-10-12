@@ -1,8 +1,3 @@
-* {
-	box-sizing: unset;
-	outline: unset;
-}
-
 .kkcard a {
 	text-decoration: none;
 }
@@ -27,6 +22,11 @@
 
 .kkcard .header .logo {
 	height: 70%;
+}
+
+.prod {
+	box-sizing: unset;
+	outline: unset;
 }
 
 .prod .prod-img {
