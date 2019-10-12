@@ -3,20 +3,20 @@
 	outline: unset;
 }
 
-a {
+.kkcard a {
 	text-decoration: none;
 }
 
-.clearfix {
+..kkclearfix {
 	clear: both;
 }
 
-.card {
+..kkcard {
 	border: 2px solid #26bec9;
 	overflow: hidden;
 }
 
-.card .header {
+.kkcard .header {
 	width: 100%;
 	height: 40px;
 	background-color: #26bec9;
@@ -25,7 +25,7 @@ a {
 	justify-content: center;
 }
 
-.card .header .logo {
+.kkcard .header .logo {
 	height: 70%;
 }
 
